@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Telia Plus</title>
+    <style>
+        /* Add your custom CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 20px;
+            color: black;
+        }
+        .mission, .discounts, .apps, .customer-centric, .trusted-name {
+            margin-bottom: 40px;
+        }
+        .trusted-name {
+            /*background-color: #f2f2f2;*/
+            /*padding: 20px;*/
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #333;
+            color: black;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Welcome to Telia Plus</h1>
+    <p>Your Premier GSM Recharge Card Provider in Lebanon!</p>
+</header>
+<div class="container">
+    <section class="mission">
+        <h2>Our Mission:</h2>
+        <p>Our mission at Telia Plus is to empower both resellers and end users by providing top-quality recharge cards and innovative mobile apps. We understand the importance of staying connected in today's fast-paced world, and that's why we strive to deliver seamless and efficient solutions for GSM line recharges.</p>
+    </section>
+
+    <section class="discounts">
+        <h2>Discounts for Resellers:</h2>
+        <p>We believe in fostering strong partnerships with our resellers, and to support them in delivering value to their customers, we offer attractive discounts on our recharge cards. These discounts enable our resellers to pass on cost-savings to end users, making our services even more accessible and affordable for everyone.</p>
+    </section>
+
+    <section class="apps">
+        <h2>Feature-Rich Mobile Apps:</h2>
+        <p>Telia Plus is proud to present two powerful mobile apps designed to streamline the recharge process. Our reseller app empowers distributors to manage their inventory efficiently, track sales, and place orders seamlessly. On the other hand, our user-friendly app caters to both Point of Sales (POSs) and end users, providing a convenient platform for quick and hassle-free recharge transactions.</p>
+    </section>
+
+    <section class="customer-centric">
+        <h2>Customer-Centric Approach:</h2>
+        <p>At the heart of Telia Plus is our dedication to putting our customers first. We continuously strive to improve our services and offerings to ensure maximum satisfaction. Our user-friendly mobile apps and responsive customer support team are always ready to assist you at every step of the recharge journey.</p>
+    </section>
+
+    <section class="trusted-name">
+        <h2>A Trusted Name:</h2>
+        <p>Telia Plus has earned a reputation as a trusted GSM recharge card provider in Lebanon. Our commitment to quality, reliability, and security has garnered the trust of countless resellers and end users across the country. When you choose Telia Plus, you choose a partner that values your connectivity needs as much as you do.</p>
+    </section>
+
+    <section>
+        <h2>Join Us Today:</h2>
+        <p>Experience the convenience, reliability, and affordability of GSM line recharges with Telia Plus. Whether you're a reseller looking to expand your business or an end user seeking seamless mobile recharging, our tailored solutions are here to cater to your needs. Trust the official Alfa distributor in Lebanon - Trust Telia Plus.</p>
+        <p>Stay connected effortlessly. Choose Telia Plus for your GSM recharge needs.</p>
+    </section>
+</div>
+</body>
+</html>
